@@ -4,6 +4,9 @@ Create a DevContainer for R.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/tschm/r_dev)
 
+![A devcontainer for r](r_dev.png)
+
+
 ## Instructions
 
 Fire up the construction of the DevContainer by [Open in GitHub Codespaces](https://codespaces.new/tschm/r_dev)
