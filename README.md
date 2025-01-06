@@ -11,7 +11,7 @@ Fire up the construction of the DevContainer by [Open in GitHub Codespaces](http
 Pick a suitable configuration. Please note that you pay for the server.
 You need a GitHub account.
 
-The container downloads the tidyverse image and installs required software and a few packages. 
+The container downloads the tidyverse image and installs required software and a few packages.
 Follow the progress in the terminal.
 
 Once in VS Code you have to source the [welzl.r](notebooks/welzl.r) file. Use the hollow arrow in the top right corner. Or
@@ -31,4 +31,3 @@ Rather than solving the problem directly using the intersection of cones it appl
 Containers guarantee a certain level of computational harmony when multiple users use tools like Python or R.
 The container is essentially a pre-cooked meal providing R and the VS Code editor out of the box. Adding support
 for RStudio will be done in the next step.
-
