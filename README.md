@@ -21,6 +21,6 @@ source("/workspaces/r_dev/notebooks/welzl.r", encoding = "UTF-8")
 
 in the terminal.
 
-It remains to start [start.r](start.r) and play with the input parameter. 
+It remains to start [start.r](start.r) and play with the input parameter.
 
 Rather than solving the problem directly using the intersection of cones it applies an idea by [Welzl](https://en.wikipedia.org/wiki/Emo_Welzl)
