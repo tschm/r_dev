@@ -11,7 +11,8 @@ Fire up the construction of the DevContainer by [Open in GitHub Codespaces](http
 Pick a suitable configuration. Please note that you pay for the server.
 You need a GitHub account.
 
-The container downloads the tidyverse image and installs required software and a few packages. Follow the progress in the terminal.
+The container downloads the tidyverse image and installs required software and a few packages. 
+Follow the progress in the terminal.
 
 Once in VS Code you have to source the [welzl.r](notebooks/welzl.r) file. Use the hollow arrow in the top right corner. Or
 
