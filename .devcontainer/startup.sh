@@ -1,5 +1,5 @@
 #!/bin/bash
-apt update
+#apt update
 #apt install software-properties-common apt-transport-https ca-certificates curl
 
 #add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/'
