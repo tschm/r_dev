@@ -25,7 +25,7 @@
     },
 
     "forwardPorts": [8787],
-    onCreateCommand: ".devcontainer/startup.sh",
+    "onCreateCommand": ".devcontainer/startup.sh",
     "postCreateCommand": "R -q -e 'install.packages(c(\"languageserver\", \"httpgd\"))'",
 
     "remoteUser": "rstudio"
